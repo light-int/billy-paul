@@ -2,7 +2,7 @@
     <!-- Sidebar Section -->
     <aside id="addo-aside">
         <!-- Logo -->
-        <div id="addo-logo"> <a href="index.html"><img src="images/logo.jpg" alt="logo"></a> </div>
+        <div id="addo-logo"> <a href="#"><img src="images/logo.jpg" alt="logo"></a> </div>
         <!-- Menu -->
         <nav id="addo-main-menu">
             <ul>
