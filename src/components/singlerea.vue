@@ -8,7 +8,7 @@
             </div>
             <div class="row">
                 <div class="col-md-8 image-content animate-box fadeInLeft animated" data-animate-effect="fadeInLeft"> 
-                    <img class="img-fluid mb-30" :src="rea.fields.image[0].url" alt=""> 
+                    <img class="img-fluid mb-30" :src="rea.fields.image[1].url" alt=""> 
                     <img class="img-fluid" src="#" alt=""> 
                 </div>
                 <div class="col-md-4 sticky-parent animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
