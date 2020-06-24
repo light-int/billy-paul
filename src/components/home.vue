@@ -284,6 +284,9 @@ export default {
 h2 span{
     color: #f0686c;
 }
+.desc h3 {
+    color: #fff;
+}
 .arrow {
     margin-top: 20vh;
     width: 97%;
