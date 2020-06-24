@@ -21,7 +21,7 @@
                                 <b>Categorie: </b>{{rea.fields.categorie}}
                             </p> 
                         </div>
-                        <ul class="toolbar sticky-parent">
+                        <ul class="toolbar sticky-parent" v-if="rea.fields.lien">
                             <li><a target="_blank" :href="rea.fields.lien" class="btn">Voir le projet</a></li>
                         </ul>
                     </div>

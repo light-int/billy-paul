@@ -6,12 +6,12 @@
         <!-- Menu -->
         <nav id="addo-main-menu">
             <ul>
-                <li><router-link to="/accueil#home">Accueil</router-link></li>
-                <li><a href="#about" v-smooth-scroll>A propos</a></li>
-                <li><a href="#services" v-smooth-scroll>Services</a></li>
-                <li><a href="#portfolio" v-smooth-scroll>Portfolio</a></li>
-                <li><a href="#contact" v-smooth-scroll>Contact</a></li>
-                <li><router-link to="/realisations#portfolio-all">Toutes mes realisations</router-link></li>
+                <li><router-link to="/">Accueil</router-link></li>
+                <li><router-link to="/#about">A propos</router-link></li>
+                <li><router-link to="/#services">Services</router-link></li>
+                <li><router-link to="/#portfolio">Portfolio</router-link></li>
+                <li><router-link to="/#contact">Contact</router-link></li>
+                <li><router-link to="/realisations">Toutes mes realisations</router-link></li>
             </ul>
         </nav>
         <!-- Sidebar Footer -->
