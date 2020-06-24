@@ -269,7 +269,7 @@ export default {
     font-weight: 700;
     margin: 0;
     letter-spacing: 0px;
-    line-height: normal;
+    line-height: 1;
     }
 
 
