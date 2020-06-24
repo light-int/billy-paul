@@ -6,7 +6,7 @@
         <!-- Menu -->
         <nav id="addo-main-menu">
             <ul>
-                <li><router-link to="/">Accueil</router-link></li>
+                <li><router-link to="/#home">Accueil</router-link></li>
                 <li><router-link to="/#about">A propos</router-link></li>
                 <li><router-link to="/#services">Services</router-link></li>
                 <li><router-link to="/#portfolio">Portfolio</router-link></li>
