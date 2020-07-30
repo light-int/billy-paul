@@ -4,7 +4,7 @@
         <div class="addo-narrow-content">
             <div class="row">
                 <div class="col-md-6 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
-                    <p class="addo-lead">© {{new Date().getFullYear()}} BILLY-PAUL. All rights reserved</p>
+                    <p class="addo-lead">© {{new Date().getFullYear()}} BILLY-PAUL. tous droits reservés</p>
                 </div>
                 <div class="col-md-6 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
                     <ul class="social-network">
