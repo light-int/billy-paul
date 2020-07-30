@@ -30,14 +30,9 @@
                     <div class="row">
                         <div class="col-md-5"> <img src="images/about.jpg" class="img-fluid mb-30" alt=""> </div>
                         <div class="col-md-7"> <span class="heading-meta">A propos de moi</span>
-                            <h2 class="cd-headline clip">
-                                <span>Je suis BILLY-PAUL &nbsp; </span>
-                                <span>&nbsp;</span>
-                                <span class="cd-words-wrapper">
-                                    <b class="is-visible">Developpeur Web</b>
-                                    <b>Freelancer</b>
-                                    <b>UI/UX Designer</b>
-                                </span>
+                            <h2 class="cd-headline clip">Je suis BILLY-PAUL
+                                <span> Developpeur Web</span>
+                                
                             </h2>
                             <p>Ma passion pour le développement web & mobile débute en 2015 j'ai dû opérer un changement radical de cursus afin de pouvoir pleinement l'exploiter. Dès lors, je mis tout en oeuvre pour percer dans cette voix, tout en prenant du plaisir sur les divers projets développés.
 
@@ -52,15 +47,15 @@
                                         <p><b>Phone:</b> +241 661 690 61</p>
                                     </div>
                                     <div class="col-md-6">
-                                        <p><b>Email:</b> info@billy-paul.com</p>
+                                        <p><b>Email:</b> obamenzoghobillybilly@gmail.com</p>
                                         <p><b>Facebook:</b> <a href="https://www.facebook.com/billy.marc1" target="_blank">Billy Marc</a></p>
-                                        <p><b>Linkedin:</b> /billyMarc</p>
+                                        <p><b>Linkedin:</b> <a href="https://www.linkedin.com/in/billy-paul-obame-nzogho-79277b181/" target="_blank">billy Marc</a></p>
                                     </div>
                                 </div>
                             </div>
                             <ul class="toolbar">
                                 <li><a href="#contact" class="btn" v-smooth-scroll>ME CONTACTER</a></li>
-                                <li><a href="https://billy-paul.netlify.app/cv/cv.pdf" class="btn" target="_blank">TELECHARGER MON CV</a></li>
+                                <li><a href="cv.pdf" class="btn" target="_blank">TELECHARGER MON CV</a></li>
                             </ul>
                         </div>
                     </div>
@@ -285,7 +280,7 @@ h2 span{
     color: #f0686c;
 }
 .desc h3 {
-    color: #fff;
+    color: #fff !important;
 }
 .arrow {
     margin-top: 20vh;
