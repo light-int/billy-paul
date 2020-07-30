@@ -8,6 +8,7 @@
                         <h2 class="addo-heading animate-box" data-animate-effect="fadeInLeft">Mes réalisations</h2> </div>
                 </div>
                 <div class="row">
+                    <loader v-show="isLoading" object="#ff5233" color1="#ffffff" color2="#17fd3d" size="6" speed="2" bg="#ffffff" objectbg="#ffffff" opacity="90" name="dots"></loader>
                     <div class="col-md-4 animate-box" data-animate-effect="fadeInLeft" v-for="(rea,i) in airtableResponse" :key="i">
                         <router-link :to="'/projet/'+rea.id" class="desc">
                             <div class="project"> <img v-bind:src="rea.fields.image[0].url" class="img-fluid" alt="">
@@ -38,16 +39,18 @@
 		name: "Allrea",
 		data() {
 			return{
-				airtableResponse: []
+                airtableResponse: [],
+                isLoading: false
 			}
 		},
 		mounted: function () {
 			let self = this
 			async function getProjects() {
+                self.isLoading= true
 				try{
 					const response = await ProjectsService.getProjects()
 					self.airtableResponse = response.data.records
-
+                    self.isLoading= false
 				}catch(err){
 					console.log(err)
 				}
