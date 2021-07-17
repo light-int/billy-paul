@@ -133,7 +133,7 @@
                                 <div class="addo-icon"> <span class="et-pricetags font-35px"></span> </div>
                                 <div class="addo-text">
                                     <h3>E-BOUTIQUE</h3>
-                                    <p>Conception & développement d'E-boutique sur mesure (Woocommerce)</p>
+                                    <p>Conception & développement d'E-boutique sur mesure Woocommerce</p>
                                 </div>
                             </div>
                         </div>
@@ -142,14 +142,14 @@
                                 <div class="addo-icon"> <span class="et-lightbulb font-35px"></span> </div>
                                 <div class="addo-text">
                                     <h3>DEVELOPPEMENT</h3>
-                                    <p>Html/Css3, PHP, MySQL, Javascript, Vue Js, SEO, Wordpress</p>
+                                    <p>html/css3, PHP, MySQL, Javascript, AJAX, Vue Js, API, SEO, Wordpress</p>
                                 </div>
                             </div>
                             <div class="addo-feature">
                                 <div class="addo-icon"> <span class="et-gears font-35px"></span> </div>
                                 <div class="addo-text">
                                     <h3>MAINTENANCE</h3>
-                                    <p>Maintenance informatique (matériel, Maintenance Logiciel)</p>
+                                    <p>Maintenance matériel, Maintenance Logiciel, Restauration</p>
                                 </div>
                             </div>
                         </div>
@@ -186,8 +186,7 @@
                             <div class="team"> <img src="images/references/Chris-Coyier.jpg" class="img-fluid" alt="">
                                 <div class="desc">
                                     <div class="con">
-                                        <h3>Chris Coyier</h3> <span>Expert CSS & HTML guru</span> 
-                                    </div>
+                                        <h3>Chris Coyier</h3> <span>Expert CSS & HTML guru</span> </div>
                                 </div>
                             </div>
                         </div>
@@ -211,7 +210,7 @@
                                 <br />Vous souhaitez discuter sur un projet ?
                                 <br />N'hésitez pas contactez moi.</p>
                             <p>TELEPHONE: +241 66169061</p>
-                            <p>EMAIL: obamenzoghobilly@gmail.com</p>
+                            <p>EMAIL: info@addoinc.com</p>
                             <p>ADDRESS: Agondje, Libreville / Gabon</p>
                         </div>
                         <!-- Contact Form -->
