@@ -1,6 +1,5 @@
 <template>
     <div class="addo-projects">
-        <loader v-show="isLoading" object="#ff5233" color1="#ffffff" color2="#17fd3d" size="6" speed="2" bg="#ffffff" objectbg="#ffffff" opacity="90" name="dots"></loader>
         <div class="container-fluid" v-for="(rea,i) in airtableResponse" :key="i">
             <div class="row">
                 <div class="col-md-12"> <span class="heading-meta">{{rea.fields.date}}</span>
@@ -40,13 +39,11 @@ import ProjectsService from '@/services/ProjectsService'
 		name: "AppSingleRea",
 		data() {
 			return{
-                airtableResponse: [],
-                isLoading: false
+                airtableResponse: []
 			}
 		},
 		mounted: function () {
             let self = this
-            self.isLoading = true
 			async function getProject() {
 				try{
 					const response = await ProjectsService.getProject(self.$route.params.slug)

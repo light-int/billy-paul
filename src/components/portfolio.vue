@@ -5,7 +5,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-12"> <span class="heading-meta">Portfolio</span>
-                        <h2 class="addo-heading animate-box" data-animate-effect="fadeInLeft">Mes réalisations</h2> </div>
+                        <h2 class="addo-heading animate-box" data-animate-effect="fadeInLeft">Réalisations</h2> </div>
                 </div>
                 <div class="row">
                     <div class="col-md-4 animate-box" data-animate-effect="fadeInLeft" v-for="(rea,i) in newsLimited" :key="i">
