@@ -220,11 +220,11 @@
                             <form method="post" action="https://formspree.io/f/moqravyl" class="row">
                                 <div class="col-sm-6">
                                     <div class="form-group">
-                                        <input type="text" class="form-control" placeholder="Nom" required> </div>
+                                        <input type="text" name="nom" class="form-control" placeholder="Nom" required> </div>
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="form-group">
-                                        <input type="text" class="form-control" placeholder="Email"> </div>
+                                        <input type="email" name="_replyto" class="form-control" placeholder="Email"> </div>
                                 </div>
                                 <div class="col-sm-12">
                                     <div class="form-group">
