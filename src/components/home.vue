@@ -47,7 +47,7 @@
                                         <p><b>Phone:</b> +241 66837036</p>
                                     </div>
                                     <div class="col-md-6">
-                                        <p><b>Email:</b> obamenzoghobillybilly@gmail.com</p>
+                                        <p><b>Email:</b> obamenzoghobilly@gmail.com</p>
                                         <p><b>Facebook:</b> <a href="https://www.facebook.com/billy.marc1" target="_blank">Billy Marc</a></p>
                                         <p><b>Linkedin:</b> <a href="https://www.linkedin.com/in/billy-paul-obame-nzogho-79277b181/" target="_blank">billy Marc</a></p>
                                     </div>
@@ -210,7 +210,7 @@
                             <p><b>BILLY-PAUL</b>
                                 <br />Vous souhaitez discuter sur un projet ?
                                 <br />N'hésitez pas contactez moi.</p>
-                            <p>TELEPHONE: +241 66169061</p>
+                            <p>TELEPHONE: +241 66837036</p>
                             <p>EMAIL: obamenzoghobilly@gmail.com</p>
                             <p>ADDRESS: Agondje, Libreville / Gabon</p>
                         </div>
