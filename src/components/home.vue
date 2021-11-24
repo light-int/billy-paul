@@ -217,7 +217,7 @@
                         <!-- Contact Form -->
                         <div class="col-md-6">
                             <p><b>ENTRER EN CONTACT</b></p>
-                            <form method="post" action="https://formspree.io/obamenzoghobilly@gmail.com" class="row">
+                            <form method="post" action="https://formspree.io/f/moqravyl" class="row">
                                 <div class="col-sm-6">
                                     <div class="form-group">
                                         <input type="text" class="form-control" placeholder="Nom" required> </div>
